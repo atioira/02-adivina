@@ -33,6 +33,8 @@ export class HomePage {
       }
     }
   }
+
+  
   reinicia(){
     this.num=null;
     this.mayorMenor="...";
